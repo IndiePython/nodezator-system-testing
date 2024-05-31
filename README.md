@@ -17,3 +17,4 @@ The main table below lists and links all existing test case files in use. If one
 | UID  | Title |
 | ---- | --- |
 | [0000](test-cases/stc-0000.md) | Instantiate default objects using the popup menu |
+| [0001](test-cases/stc-0001.md) | Delete objects via context menu |
