@@ -6,8 +6,8 @@
 This guide explains how to organize and manage system testing and its test cases.
 
 
-## General rules
 
+## General rules
 
 ### Unique identifiers and naming convention
 
@@ -19,6 +19,11 @@ In the distant future, if new unique ids require more digits, the files should p
 ### Authorship info
 
 Test cases don't include info on the people who create/update them nor corresponding dates of such events. All this info is tracked by the version control system already.
+
+
+### Categories
+
+As explained in the [README](README.md) file, categories used are loose and arbitrary, for the sole purpose of grouping test cases with common aspects. When creating a new test, you are free to pick a category name that doesn't exist yet, but before that make sure the test doesn't already fit one of the existing categories.
 
 
 

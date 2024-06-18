@@ -3,9 +3,9 @@
 
 # System test case XXXX
 
-| UID | Title |
-| ----- | ----- |
-| XXXX | Title of your test |
+| UID | Category | Title |
+| --- | --- | --- |
+| XXXX | Test's category | Test's title |
 
 
 **Description (User must be able to...)**
@@ -14,10 +14,10 @@ Perform this specific task.
 
 **Steps**
 
-- step 1
-- step 2
-- step 3
-- and so on...
+1. step 1
+1. step 2
+1. step 3
+1. and so on...
 
 **Assertions**
 
